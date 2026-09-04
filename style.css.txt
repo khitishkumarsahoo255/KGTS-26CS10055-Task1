@@ -1,0 +1,45 @@
+style.css
+body {
+    background-color: lightgray;
+    font-family: Arial;
+    margin: 0;
+}
+
+.heading {
+    background-color: white;
+    text-align: center;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+.heading h1 {
+    color: darkblue;
+}
+
+.box {
+    background-color: white;
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 8px;
+}
+
+.box h2 {
+    color: darkblue;
+}
+
+.box p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+li {
+    margin: 8px;
+}
+
+.last {
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
